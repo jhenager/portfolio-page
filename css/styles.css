@@ -50,4 +50,9 @@ div.work {
   float:left;
   margin-left: 10px;
   margin-top: 20px;
+  height: 200px;
+}
+
+footer {
+  height: 100px;
 }
