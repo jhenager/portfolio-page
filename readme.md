@@ -10,13 +10,11 @@ This webpage is designed to give the viewer a better idea of who I am, where I'm
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Enter < > into browser search bar_
+#### _OR_
+* _Clone files from repository at: https://github.com/jhenager/portfolio-page.git_
+* _Then open in browser or compatible software._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
