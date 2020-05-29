@@ -10,7 +10,7 @@ This webpage is designed to give the viewer a better idea of who I am, where I'm
 
 ## Setup/Installation Requirements
 
-* _Enter < > into browser search bar_
+* _Enter https://jhenager.github.io/portfolio-page into browser search bar_
 #### _OR_
 * _Clone files from repository at: https://github.com/jhenager/portfolio-page.git_
 * _Then open in browser or compatible software._
