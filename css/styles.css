@@ -8,15 +8,14 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-
 div.picture {
   float:right;
 }
 
 #portrait {
-    height: 30%;
-    width: 30%;
-    margin-right: 70px;
+    height: 35%;
+    width: 35%;
+    border-radius: 30px;
     float: right;
     box-shadow: 5px 5px;
   }
@@ -71,4 +70,5 @@ div.work {
 
 footer {
   height: 100px;
+  background-color: rgba(101, 177, 212, 0.993)
 }
