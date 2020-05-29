@@ -3,6 +3,9 @@ div.header {
   margin-left: 10px;
 }
 
+body {
+  background-color: rgb(82, 190, 167);
+}
 div.picture {
   float:right;
 }
@@ -25,7 +28,6 @@ div.about-me {
   padding-bottom: 20px;
   float:left;
 }
-
 
 div.interests {
   padding-left: 20px;
