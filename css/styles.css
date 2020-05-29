@@ -1,5 +1,6 @@
 div.header {
   float: none;
+  padding-left: 20px;
 }
 
 div.james {
@@ -8,7 +9,20 @@ div.james {
   float: right;
 }
 
-div.my-work {
-  float:left;
-  margin-left: 10px;
+#portrait {
+    height: 30%;
+    width: 30%;
+    float: right;
+    margin-right: 200px;
+  }
+
+div.about-me {
+  padding-left: 20px;
+  width: 30%;
+}
+
+div.work {
+  padding-left:20px;
+  width:30%;
+  float:auto;
 }
