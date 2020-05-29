@@ -1,5 +1,14 @@
+div.header {
+  float: none;
+}
+
 div.james {
   height:200px;
   width: 50%;
   float: right;
+}
+
+div.my-work {
+  float:left;
+  margin-left: 10px;
 }
