@@ -15,10 +15,13 @@ div.picture {
     width: 30%;
     margin-right: 70px;
     float: right;
+    box-shadow: 5px 5px;
   }
 
 #title {
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 div.about-me {
@@ -26,7 +29,10 @@ div.about-me {
   width: 40%;
   margin-left: 10px;
   padding-bottom: 20px;
+  padding-right: 20px;
   float:left;
+  background-color: rgba(101, 177, 212, 0.993)!important;
+  box-shadow: 5px 5px;
 }
 
 div.background {
@@ -35,11 +41,13 @@ div.background {
   margin-left: 10px;
   padding-bottom: 20px;
   float:right;
+  background-color: rgba(101, 177, 212, 0.993)!important;
+  box-shadow: 5px 5px;
 }
 div.work {
   padding-left:20px;
   width:30%;
   float:left;
   margin-left: 10px;
-  margin-top: 70px;
+  margin-top: 20px;
 }
