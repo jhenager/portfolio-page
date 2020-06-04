@@ -1,6 +1,6 @@
 # _James Henager's Portfolio Page_
 
-#### _This page was designed to describe my background and showcase my body of work, {5/29/2020}_
+#### _This page was designed to describe my background and showcase my body of work, 5/29/2020_
 
 #### By _**James Henager**_
 
